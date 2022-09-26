@@ -3,10 +3,10 @@ A Novel Method for Handwritten Digit Recognition System
 
 
 Team Leader
-      Manimuthu
+      Manimuthu P
      
 Team Members
 
-1.Sureshkannan
-2.Meiyalagan
-3.Tamilarasan
+1.Sureshkannan S
+2.Meiyalagan R
+3.Tamilarasan M
